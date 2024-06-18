@@ -1,3 +1,16 @@
+
+# Admin dashboard starter kit
+
+## Technology Stack
+- NextJS
+- Next Auth - Login / Registration
+- Tailwind CSS
+- Prisma
+- Layout - menu
+- Daisy UI ???
+- Multi Tennent - Company ---m-----n---- Users
+
+# Next JS Docs 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
